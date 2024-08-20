@@ -1,1 +1,2 @@
-# calc
+#include<iostream>
+#include<strdlib>
